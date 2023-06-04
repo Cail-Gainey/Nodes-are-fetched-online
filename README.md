@@ -3,7 +3,7 @@
 
 一.进去黑洞、蜜蜂、旋风、雷霆等VPN软件的在线提取网址，全选复制密文到记事本（可通过多次刷新提取多个节点信息）
 
-蜜蜂：https://www.09898434.xyz/api/evmess?
+蜜蜂：https://www.09898434.xyz/api/evmess? （？也要复制）
 
 雷霆：https://www.lt71126.xyz:20000/api/evmess
 
