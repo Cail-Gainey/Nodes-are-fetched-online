@@ -5,13 +5,13 @@
 
 （可通过多次刷新提取多个节点信息，注意观察密文是否变化！！！）
 
-蜜蜂：https://www.09898434.xyz/api/evmess? （？也要复制）
-
 雷霆：https://www.lt71126.xyz:20000/api/evmess
 
 旋风：https://www.xfjyqirx.xyz:20000/api/evmess
 
 黑洞：https://www.hd327658.xyz:20000/api/evmess
+
+蜜蜂：https://www.09898434.xyz/api/evmess? （可能出现刷新后密文没有变化，可测试其他几个软件）
 
 二.
 1.打开Java在线网站，将 'Java在线提取节点' 里的代码复制进去
