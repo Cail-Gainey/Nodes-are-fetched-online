@@ -9,6 +9,8 @@
 
 二.
     1.打开Java在线网站，将下面文本复制进去
+    
+    
 import java.security.MessageDigest;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -19,8 +21,6 @@ import javax.crypto.spec.IvParameterSpec;
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.Charset;
 import java.util.Base64;
-
-
 public class HelloWorld {
     public static void main(String []args) throws Exception {
        
@@ -44,6 +44,7 @@ public class HelloWorld {
 		return new String(doFinal, Charset.forName("UTF-8"));
     }
 }
+
 
 Java在线网址：https://www.tutorialspoint.com/compile_java_online.php
    2.将复制的密文填入 String cipherText = "在此输入密文，多条用空格分割";
